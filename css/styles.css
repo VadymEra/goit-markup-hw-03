@@ -224,7 +224,7 @@ img {
 }
 
 
-.strategy-title {
+.advantages-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -241,15 +241,6 @@ img {
     color: #434455;
 }
 
-.punctuality-title {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    margin-bottom: 8px;
-}
-
 .punctuality-title-text {
     font-weight: 400;
     font-size: 16px;
@@ -258,30 +249,12 @@ img {
     color: #434455;
 }
 
-.diligence-title {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    margin-bottom: 8px;
-}
-
 .diligence-title-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
-
-.technologies-title {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    margin-bottom: 8px;
 }
 
 .technologies-title-text {
