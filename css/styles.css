@@ -173,6 +173,7 @@ img {
 .hero-title {
     font-weight: 700;
     font-size: 56px;
+    max-width: 496px;
     line-height: 1.07143;
     letter-spacing: 0.02em;
     text-align: center;
@@ -188,8 +189,9 @@ img {
     font-weight: 500;
     line-height: 150%;
     letter-spacing: 0.04em;
+    min-width: 169px;
     margin: 0 auto;
-    display: flex;
+    display: block;
     align-items: center;
     justify-content: center;
     flex-direction: row;
