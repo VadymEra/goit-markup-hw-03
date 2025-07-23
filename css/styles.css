@@ -102,7 +102,7 @@ img {
 
 .header {
     padding-bottom: 24px;
-    padding-top: 20px;
+    padding-top: 24px;
     background-color: #ffffff;
     opacity: 1;
     border-bottom: 1px solid #e7e9fc;
@@ -392,7 +392,7 @@ img {
 
 .logo-footer {
     margin-bottom: 16px;
-    display: block;
+    display: inline-block
 }
 
 .footer-text {
