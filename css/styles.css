@@ -102,7 +102,7 @@ img {
 
 .header {
     padding-bottom: 24px;
-    padding-top: 24px;
+    padding-top: 20px;
     background-color: #ffffff;
     opacity: 1;
     border-bottom: 1px solid #e7e9fc;
@@ -140,6 +140,8 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 /* address header */
